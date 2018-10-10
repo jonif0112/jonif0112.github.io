@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Attack da helicopter"
-date: 2018-02-11
+date: 2018-02-10
 ---
 
 Well. Finally got around to putting this old website together. Neat thing about it - powered by [Googelgwg](google.com) Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam bibendum, ex quis bibendum luctus, urna leo porttitor odio, ut accumsan sem nibh bibendum mi. Duis ipsum lectus, tempus interdum viverra sed, auctor ac quam. Maecenas porttitor at justo nec maximus. Vivamus sodales scelerisque bibendum. Sed sit amet malesuada massa. Curabitur nec nunc a diam lacinia dictum eu non ante. Mauris egestas sem consequat nisi molestie hendrerit. Fusce lorem quam, congue quis urna ut, ultrices iaculis dolor. Vestibulum condimentum dolor in libero hendrerit tempus.
