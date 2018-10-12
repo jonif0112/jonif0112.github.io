@@ -17,7 +17,8 @@ a {
     color: #999;
 }
 a:hover {
-     background-color: black;
+     a:hover {
+         color: hotpink;
 }
 h1 {
     font-size: 3em;
